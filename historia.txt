@@ -9,3 +9,5 @@ En este momento son las 3:10 am y no tengo sueño, estoy practicando algo de git
 Este es otro cambio de prueba.
 
 Estamos retomando el curso el 17 de abril de 2020.
+
+Nuestro mundo es azul.
