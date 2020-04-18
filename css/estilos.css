@@ -9,12 +9,30 @@ body {
 
 #container {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid #DDD;
-    margin: 0 auto;
+    margin: 10px auto;
 }
 
-#container h1 {
-    font-size: 20px;
+#cabecera {
+    background-color: deepskyblue;
+    padding: 20px;
+    margin: 0;
+    text-align: center;
+    font-size: 48px;
+    font-weight: bold;
+    color: #fff;
 }
+
+#post {
+    padding: 1em;
+    color: #555;
+}
+
+#post h1 {
+    font-size: 32px;
+    font-weight: bold;
+    color: #369;
+}
+
