@@ -1,1 +1,11 @@
 Mi nombre es Eduardo Ochoa, tengo 35 años y en pocos días cumpliré 36 años.
+
+Estoy aprendiendo cursos en línea con Platzi.
+
+Estoy tomando 2 cursos en este momento: Git y Github; Finanzas personales.
+
+En este momento son las 3:10 am y no tengo sueño, estoy practicando algo de git.
+
+Este es otro cambio de prueba.
+
+Estamos retomando el curso el 17 de abril de 2020.
